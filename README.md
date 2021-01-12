@@ -4,7 +4,7 @@ SwiftUIでスタイリッシュなUIアニメションのVPNアプリを作成�
 SwiftUIのCapsuleを用いてStart/Stopボタンを描画したりタップでon/offアニメーションをつけたりするUIサンプルコードです。
 
 ## スクリーンショット
-<img src="./screen1.png" width="200"> <img src="./screen2.png" width="200">
+<img src="./screen1.png" width="300"> <img src="./screen2.png" width="300">
 
 
 
